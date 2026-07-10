@@ -15,7 +15,6 @@
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Vercel AI SDK](https://img.shields.io/badge/AI-Vercel%20AI%20SDK-black?style=flat-square&logo=vercel)](https://sdk.vercel.ai/)
 [![OpenRouter](https://img.shields.io/badge/LLM-OpenRouter-6366f1?style=flat-square)](https://openrouter.ai/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 </div>
 
